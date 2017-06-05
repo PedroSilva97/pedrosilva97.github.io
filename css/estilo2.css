@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+*{ 
+	margin:0;
+	padding:0;
+}
+body{
+	height: 100%;
+	background: url(../imagens/fundo1.jpg) no-repeat center  fixed;
+}
+
+header{
+	width: 100%;
+	margin:0px;
+	border: 2px solid none;
+	padding:15px;
+	background:url(../imagens/Design.png) ;
+	background-repeat:no-repeat;
+	background-position:center;
+}
+/*.nav.navbar-nav{
+	float:right;
+}*/
+
+.logo img {
+    max-width: 100%;
+	height: auto;
+	margin-top:0 auto;
+}
+.fundo{
+	height:auto;
+	background:url(../imagens/fundo2.png) fixed;
+	display: block;
+}
+h1{
+	color:#7F0000
+}
+p{
+	color:#000;
+	font-size: 20px; 
+}
+#foto{
+	display:inline-block;
+	margin-left: 10%;
+
+}
+.quem{
+	width: 70%;
+	height: auto;
+	float:right;
+	margin: 50px auto;	
+}
+.caixa1{
+	width: 280px;
+	height: 280px;
+	margin: 15px 40px;
+	padding:0px;
+	float: left;
+}
+
+.caixa1 h2{
+	text-align: center;
+	color:#000;
+	
+}
+.fundo img {
+	width: 278px;
+	height: auto;
+}
+
+footer {
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+
+	background-color: #7F0000;
+}
+footer p{
+	
+	text-align: center;
+	font-size: 100%;
+	color:#fff;
+	margin: 0;
+
+}
+article h1{
+	text-align: center;
+}
+.conteudo{
+	
+	width: 360px;
+	height: auto;
+	float: left;	
+}
+.conteudo h2{
+	color: #7f0000;
+}
+.conteudo p{
+	font-family: Times New Roman, serif;
+	font-size: 22px;	
+}
+#Tudo{
+	min-height: 100vh;
+	position: relative;
+}
+#pagina{
+	padding-bottom: 6%;
+}
+form{
+	display: inline-block;
+}
+form input{
+	border-radius: 10px;
+}
+textarea{
+	border-radius: 10px;
+}
+form b{
+	color: #7f0000;
+}
+table{
+	margin: 1px auto;
+}
+article img{
+	max-width: 100%;
+	height: auto;
+}
+article h2 {
+	text-align: center;
+	color: #7f0000;
+}
+
+
+
+
+
+
